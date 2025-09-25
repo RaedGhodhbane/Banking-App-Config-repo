@@ -1,5 +1,5 @@
-global.params.p1=333
-global.params.p2=3333
+global.params.p1=3333
+global.params.p2=8888
 
 ### DATABASE ###
 spring.datasource.username=root
